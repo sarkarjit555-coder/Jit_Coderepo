@@ -1,2 +1,2 @@
 # Jit_Coderepo
-First Git Repo
+First Git Repo. Author: Jit Sarkar
